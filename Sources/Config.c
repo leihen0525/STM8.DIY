@@ -174,7 +174,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K2_Up,		Control_InPut_IO,
-			Command_CH_K2_Down,		Control_InPut_IO
+			Command_CH_K2_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
@@ -193,7 +193,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K3_Up,		Control_InPut_IO,
-			Command_CH_K3_Down,		Control_InPut_IO
+			Command_CH_K3_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
@@ -212,7 +212,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K4_Up,		Control_InPut_IO,
-			Command_CH_K4_Down,		Control_InPut_IO
+			Command_CH_K4_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
@@ -231,7 +231,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K5_Up,		Control_InPut_IO,
-			Command_CH_K5_Down,		Control_InPut_IO
+			Command_CH_K5_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
@@ -250,7 +250,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K6_Up,		Control_InPut_IO,
-			Command_CH_K6_Down,		Control_InPut_IO
+			Command_CH_K6_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
@@ -269,7 +269,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K7_Up,		Control_InPut_IO,
-			Command_CH_K7_Down,		Control_InPut_IO
+			Command_CH_K7_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
@@ -288,7 +288,7 @@ const Control_Config_Type Control_CH_Config[Control_CH_End]=
 		{
 			//Command_CH			Type
 			Command_CH_K8_Up,		Control_InPut_IO,
-			Command_CH_K8_Down,		Control_InPut_IO
+			Command_CH_K8_Down,		Control_InPut_IO,
 		},
 
 		.OutPut=
